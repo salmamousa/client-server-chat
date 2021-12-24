@@ -1,6 +1,6 @@
 # client-server-chat
 This repository contains the class structure as well as the source code for the Server-Client Chat program written in C++.
-This code is meant to be ran on a linux environment however you can make some slight adjustments to this source code in order for it to run on a windows environment through the IDE of your choice.
+This code is meant to be run on a linux environment however you can make some slight adjustments to this source code in order for it to run on a windows environment through the IDE of your choice.
 
 # Server.h file
 is where the class, data members and methods for the server-side connection are declared.
